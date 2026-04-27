@@ -1,4 +1,4 @@
-// w tym kodzie zostaną wprowadzone zmiany.
+// w tym kodzie zostaną wprowadzone zmiany
 #include <iostream>
 #include <string>
 
