@@ -66,7 +66,7 @@ def calfp(frates, fac_rate):
 # Funkcja główna (odpowiednik main)
 if __name__ == "__main__":
     # Macierz częstości występowania elementów
-    frates = [[0, 1, 0], [0, 1, 0], [0, 3, 0], [0, 1, 0], [0, 3, 0]]
+    frates = [[1, 4, 6], [0, 0, 6], [3, 1, 0], [4, 2, 2], [1, 0, 0]]
 
     fac_rate = 2
 
