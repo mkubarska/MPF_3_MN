@@ -20,7 +20,7 @@ def calfp(frates, fac_rate):
 
     ufp = 0
 
-    # Obliczanie UFP (Unadjusted Function Point)
+    # Obliczanie UFffP (Unadjusted Function Point)
     for i in range(5):
         for j in range(3):
             freq = frates[i][j]
